@@ -5,7 +5,7 @@
 * [Work History](work-history.md)
 * [Projects](projects/README.md)
   * [Introduction to Web Development](projects/introduction-to-web-development.md)
-  * [Create and Publish a Chrome Extension](projects/create-and-publish-a-chrome-extension.md)
+  * [Design, Create and Publish a Chrome Extension](projects/design-create-and-publish-a-chrome-extension.md)
   * [Cloudinary Transformations](projects/cloudinary-transformations.md)
   * [Transformation Concentration](projects/transformation-concentration.md)
   * [Positioning and Gravity](projects/positioning-and-gravity.md)
