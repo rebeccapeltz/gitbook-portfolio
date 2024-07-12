@@ -4,7 +4,9 @@
 
 
 
-### [Introduction to Web Development Using Cloud Services](https://rpeltz.gitbook.io/introduction-to-web-development)
+Click the link below to see the GitBook:
+
+[Introduction to Web Development Using Cloud Services](https://rpeltz.gitbook.io/introduction-to-web-development)
 
 ### Description
 
