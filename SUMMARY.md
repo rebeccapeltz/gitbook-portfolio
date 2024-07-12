@@ -8,6 +8,5 @@
   * [Design, Create and Publish a Chrome Extension](projects/design-create-and-publish-a-chrome-extension.md)
   * [Cloudinary Transformations](projects/cloudinary-transformations.md)
   * [Transformation Concentration](projects/transformation-concentration.md)
-  * [Positioning and Gravity](projects/positioning-and-gravity.md)
   * [Code Notebooks](projects/code-notebooks.md)
 * [Blogs](blogs.md)
