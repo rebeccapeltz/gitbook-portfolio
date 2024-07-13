@@ -13,6 +13,8 @@ Masters Science, 2023, Curriculum Design
 ### Skills
 
 * Writing and Diagramming for Documentation
+* Course Development
+* API Development and Testing
 * Programming Languages: JavaScript, Node.js, Java, C#, Python
 * SQL, Database Administration
 * Software development with SAAS
@@ -30,7 +32,7 @@ Masters Science, 2023, Curriculum Design
 
 
 
-Course Development
+
 
 
 
