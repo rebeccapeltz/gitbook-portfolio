@@ -1,6 +1,6 @@
 # Rebecca (Becky) Peltz
 
-<figure><img src=".gitbook/assets/beckypeltz.jpeg" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/beckypeltz.jpeg" alt="" width="187"><figcaption></figcaption></figure>
 
 ### &#x20;About
 
