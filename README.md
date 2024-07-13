@@ -4,7 +4,20 @@
 
 ### &#x20;About
 
+```mermaid
+block-beta
+   columns 5
+   Planning space Requirements space Design
+   space space space space space
+   Maintenance space Testing space Coding
 
+   Planning --> Requirements
+   Requirements --> Design
+   Design --> Coding
+   Coding --> Testing
+   Testing --> Maintenance
+   Maintenance --> Planning
+```
 
 ### Contact
 
