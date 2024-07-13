@@ -4,9 +4,8 @@
 
 ### &#x20;About
 
-```mermaid
-block-beta
-   columns 5
+<pre class="language-mermaid"><code class="lang-mermaid"><strong>block-beta
+</strong>   columns 5
    Planning space Requirements space Design
    space space space space space
    Maintenance space Testing space Coding
@@ -17,7 +16,7 @@ block-beta
    Coding --> Testing
    Testing --> Maintenance
    Maintenance --> Planning
-```
+</code></pre>
 
 ### Contact
 
