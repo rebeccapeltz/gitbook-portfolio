@@ -16,5 +16,5 @@ I shared a link to this guide in a [blog post about phishing](https://dev.to/reb
 
 ### Technology
 
-This guide was created using GitBook.  The Chrome Extension was coded using HTML, JavaScript and CSS.
+This guide was created using GitBook.  The Chrome Extension was coded using HTML, JavaScript, and CSS.
 
