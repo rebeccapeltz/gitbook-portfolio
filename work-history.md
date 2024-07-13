@@ -1,5 +1,7 @@
 # Work History
 
+<figure><img src=".gitbook/assets/puzzle1.png" alt="" width="256"><figcaption><p>Database, Web, Programming, Design, Documentation, Education</p></figcaption></figure>
+
 ### Summary of Writing and Teaching Experience
 
 * North Seattle College: Instructing students in Microsoft ASP, Java, and C++, Collaborated on course development for Java, Created a course on Web Services
