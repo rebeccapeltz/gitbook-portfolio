@@ -9,4 +9,6 @@
   * [Cloudinary Transformations](projects/cloudinary-transformations.md)
   * [Transformation Concentration](projects/transformation-concentration.md)
   * [Code Notebooks](projects/code-notebooks.md)
-* [Blogs](blogs.md)
+* [Blogs](blogs/README.md)
+  * [dev.to](blogs/dev.to.md)
+  * [Medium](blogs/medium.md)
