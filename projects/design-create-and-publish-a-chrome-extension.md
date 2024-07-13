@@ -1,6 +1,6 @@
 # Design, Create and Publish a Chrome Extension
 
-<figure><img src="../.gitbook/assets/publish-extension.png" alt="" width="563"><figcaption><p>Create and Publish an Extension for the Chrome Browser</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/link-reveal-chrome-store.png" alt=""><figcaption><p>Link Reveal Extenstion Published in Chrome Web Store</p></figcaption></figure>
 
 Click the link below to see the online guide:
 
