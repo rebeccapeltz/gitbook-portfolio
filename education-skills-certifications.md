@@ -1,5 +1,7 @@
 # Education, Skills, Certifications
 
+<figure><img src=".gitbook/assets/universities.png" alt=""><figcaption><p>UW and Quinnipiac</p></figcaption></figure>
+
 ### University of Washington
 
 Psychology 1979, Phi Beta Kappa, Magna Cum Laude
