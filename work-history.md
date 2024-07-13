@@ -1,6 +1,6 @@
 # Work History
 
-<figure><img src=".gitbook/assets/puzzle2.png" alt="" width="256"><figcaption><p>Programming, Database, Web, Design, Documentation, Education</p></figcaption></figure>
+<figure><img src=".gitbook/assets/puzzle3.png" alt="" width="375"><figcaption><p>Data, Programs, Documentation, Education</p></figcaption></figure>
 
 ### Summary of Writing and Teaching Experience
 
