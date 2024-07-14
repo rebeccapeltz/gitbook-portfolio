@@ -7,7 +7,7 @@
   * [Introduction to Web Development](projects/introduction-to-web-development.md)
   * [Design, Create, and Publish a Chrome Extension Guide](projects/design-create-and-publish-a-chrome-extension-guide.md)
   * [Code Notebooks](projects/code-notebooks.md)
-  * [Cloudinary Transformations](projects/cloudinary-transformations.md)
+  * [Periodic Table of Cloudinary Transformations](projects/periodic-table-of-cloudinary-transformations.md)
   * [Transformation Concentration](projects/transformation-concentration.md)
   * [Code Sandbox Cloudinary Transformations](projects/code-sandbox-cloudinary-transformations.md)
 * [Blogs](blogs/README.md)
