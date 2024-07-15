@@ -7,4 +7,4 @@ description: >-
 
 # Projects
 
-<figure><img src="../.gitbook/assets/projects.png" alt=""><figcaption><p>Projects</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/projects.png" alt="" width="375"><figcaption><p>Projects</p></figcaption></figure>
