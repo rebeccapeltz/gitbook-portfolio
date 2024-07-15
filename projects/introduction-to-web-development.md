@@ -14,4 +14,4 @@ A book that introduces the students to project-based learning with a four-week c
 
 ### Tools/Technology
 
-This book is written using the online gitbook.com editor and hosting. This supports a four-week course that introduces students to web development and programming.  The course teaches students how to code in HTML, JavaScript, and CSS.  It also introduces them to working in the cloud because it uses an online IDE to create the code and GitHub to store and serve the web pages that students create.
+This book is written using the online [gitbook.com](https://www.gitbook.com/) editor and hosting. This supports a four-week course that introduces students to web development and programming.  The course teaches students how to code in HTML, JavaScript, and CSS.  It also introduces them to working in the cloud because it uses an online IDE to create the code and GitHub to store and serve the web pages that students create.
