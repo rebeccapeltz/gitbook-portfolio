@@ -12,4 +12,4 @@ This front-end application was created with the React framework using the Cloudi
 
 [code](https://github.com/rebeccapeltz/sandbox-react-cld)
 
-[demo](https://sandbox-react-cld.netlify.app/)
+[Application](https://sandbox-react-cld.netlify.app/)

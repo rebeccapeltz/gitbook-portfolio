@@ -22,4 +22,4 @@ This game was built using React.&#x20;
 
 [code](https://github.com/rebeccapeltz/transformation-concentration)
 
-[demo](https://transformation-concentration.netlify.app/)
+[application](https://github.com/rebeccapeltz/transformation-concentration)

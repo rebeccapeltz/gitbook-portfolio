@@ -2,7 +2,7 @@
 
 ### Medium
 
-[**Map-List: JavaScript Data Structure That Models Applications**](https://medium.com/@code-literacy/map-list-javascript-data-structure-that-models-applications-333f64462f2b)**,**
+[**Map-List: JavaScript Data Structure That Models Applications**](https://medium.com/@code-literacy/map-list-javascript-data-structure-that-models-applications-333f64462f2b)
 
 [**R: rank vs. order**](https://medium.com/towards-data-science/r-rank-vs-order-753cc7665951?source=your\_stories\_page-------------------------------------)
 
