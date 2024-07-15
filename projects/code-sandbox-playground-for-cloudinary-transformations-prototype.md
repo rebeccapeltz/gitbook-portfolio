@@ -1,6 +1,6 @@
 # Code Sandbox Playground for  Cloudinary Transformations Prototype
 
-<figure><img src="../.gitbook/assets/sandbox-playground-react.png" alt=""><figcaption><p>Code Sandbox Playground</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sandbox-playground-react (1).png" alt=""><figcaption><p>Code Sandbox Playground</p></figcaption></figure>
 
 ### Description
 
