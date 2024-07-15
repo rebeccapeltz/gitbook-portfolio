@@ -1,2 +1,0 @@
-# Code Sandbox Cloudinary Transformations
-

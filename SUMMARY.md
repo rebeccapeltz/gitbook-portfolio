@@ -9,7 +9,7 @@
   * [Code Notebooks](projects/code-notebooks.md)
   * [Periodic Table of Cloudinary Transformations](projects/periodic-table-of-cloudinary-transformations.md)
   * [Transformation Concentration](projects/transformation-concentration.md)
-  * [Code Sandbox Cloudinary Transformations](projects/code-sandbox-cloudinary-transformations.md)
+  * [Code Sandbox Playground for  Cloudinary Transformations Prototype](projects/code-sandbox-playground-for-cloudinary-transformations-prototype.md)
 * [Blogs](blogs/README.md)
   * [dev.to](blogs/dev.to.md)
   * [Medium](blogs/medium.md)
