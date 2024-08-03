@@ -5,6 +5,7 @@
 * [Work History](work-history.md)
 * [Projects](projects/README.md)
   * [Introduction to Web Development](projects/introduction-to-web-development.md)
+  * [Blockchain Learning](projects/blockchain-learning.md)
   * [Design, Create, and Publish a Chrome Extension Guide](projects/design-create-and-publish-a-chrome-extension-guide.md)
   * [Code Notebooks](projects/code-notebooks.md)
   * [Periodic Table of Cloudinary Transformations](projects/periodic-table-of-cloudinary-transformations.md)
