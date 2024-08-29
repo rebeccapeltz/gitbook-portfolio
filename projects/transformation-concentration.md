@@ -1,3 +1,7 @@
+---
+description: Play the game of Concentration to learn about Cloudinary transformations.
+---
+
 # Transformation Concentration
 
 <figure><img src="../.gitbook/assets/transformation-concentration.png" alt=""><figcaption><p>Gamifying Learning by using the Concentration game format to learn common transformations</p></figcaption></figure>

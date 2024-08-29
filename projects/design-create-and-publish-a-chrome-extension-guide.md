@@ -1,3 +1,7 @@
+---
+description: Create a chrome extension.
+---
+
 # Design, Create, and Publish a Chrome Extension Guide
 
 <figure><img src="../.gitbook/assets/link-reveal-chrome-store.png" alt=""><figcaption><p>Link Reveal Extenstion Published in Chrome Web Store</p></figcaption></figure>

@@ -4,6 +4,7 @@
 * [Education, Skills, Certifications](education-skills-certifications.md)
 * [Work History](work-history.md)
 * [Projects](projects/README.md)
+  * [Using AI at Home and in the Workplace](projects/using-ai-at-home-and-in-the-workplace.md)
   * [Introduction to Web Development](projects/introduction-to-web-development.md)
   * [Blockchain Learning](projects/blockchain-learning.md)
   * [Design, Create, and Publish a Chrome Extension Guide](projects/design-create-and-publish-a-chrome-extension-guide.md)

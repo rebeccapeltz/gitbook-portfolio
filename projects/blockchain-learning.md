@@ -1,3 +1,7 @@
+---
+description: Learning to work with a crypto currency wallet.
+---
+
 # Blockchain Learning
 
 <figure><img src="../.gitbook/assets/blockchain-tutorial-project.png" alt="Blockchain using a wallet"><figcaption><p>Tutorial to learn how to interact with the blockchain using a wallet</p></figcaption></figure>
