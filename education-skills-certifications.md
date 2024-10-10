@@ -15,6 +15,8 @@ Masters Science, 2023, Curriculum Design
 ### Skills
 
 * Writing and Diagramming for Documentation
+* Fullstack Software Development&#x20;
+* Project Management
 * Course Development
 * API Development and Testing
 * Programming Languages: JavaScript, Node.js, Java, C#, Python
@@ -23,8 +25,8 @@ Masters Science, 2023, Curriculum Design
 
 ### Certifications
 
-* AWS Certified Cloud Practioner
-* ICS2 CC Certified in Cybersecurity
+* AWS Certified Cloud Practioner, 2022
+* ICS2 CC Certified in Cybersecurity, 2024
 
 
 
