@@ -14,6 +14,6 @@ While working at Cloudinary as a Curriculum Program Manager, I created a prototy
 
 This front-end application was created with the React framework using the Cloudinary React SDK.
 
-[code](https://github.com/rebeccapeltz/sandbox-react-cld)
+[Code](https://github.com/rebeccapeltz/sandbox-react-cld)
 
-[Application](https://sandbox-react-cld.netlify.app/)
+[Application](https://www.beckypeltz.me/sandbox-react-cld/)
