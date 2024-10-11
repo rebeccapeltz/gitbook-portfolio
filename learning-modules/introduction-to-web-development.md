@@ -16,8 +16,6 @@ Click the link below to see the GitBook:
 
 
 
-[Introduction to Web Development Using Cloud Services](https://rpeltz.gitbook.io/introduction-to-web-development)
-
 ### Description
 
 A book that introduces the students to project-based learning with a four-week course in creating websites using HTML, CSS, and JavaScript.
