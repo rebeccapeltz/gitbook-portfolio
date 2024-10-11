@@ -10,16 +10,12 @@ description: Course in learning web development.
 
 Click the link below to see the GitBook:
 
-
-
 > [Introduction to Web Development Using Cloud Services](https://rpeltz.gitbook.io/introduction-to-web-development)
-
-
 
 ### Description
 
-A book that introduces the students to project-based learning with a four-week course in creating websites using HTML, CSS, and JavaScript.
+This book introduces the students to project-based learning by offering a four-week course on creating websites using HTML, CSS, and JavaScript.  The course uses replit.com, an online development environment.
 
 ### Tools/Technology
 
-This book is written using the online [GitBook](https://www.gitbook.com/) editor and hosting. This supports a four-week course that introduces students to web development and programming.  The course teaches students how to code in HTML, JavaScript, and CSS.  It also introduces them to working in the cloud because it uses an online IDE to create the code and GitHub to store and serve the web pages that students create.
+This book was written and hosted using the online GitBook editor. This supports a four-week course that introduces students to web development and programming.  The course teaches students how to code in HTML, JavaScript, and CSS.  It also introduces them to working in the cloud because it uses an online IDE to create the code and GitHub to store and serve the web pages that students make.
