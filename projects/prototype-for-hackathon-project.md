@@ -1,2 +1,0 @@
-# Prototype for Hackathon Project
-
