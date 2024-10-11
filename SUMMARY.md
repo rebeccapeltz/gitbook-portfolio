@@ -9,6 +9,7 @@
   * [Blockchain Learning](learning-modules/blockchain-learning.md)
 * [Hackathon Projects](hackathon-projects/README.md)
   * [Prototype for Hackathon 3D Project](projects/prototype-for-hackathon-project.md)
+  * [Dev.to Cloudflare AI Challenge: Recipe Generator](hackathon-projects/dev.to-cloudflare-ai-challenge-recipe-generator.md)
 * [Learning Apps](projects/README.md)
   * [Design, Create, and Publish a Chrome Extension](projects/design-create-and-publish-a-chrome-extension.md)
   * [Code Notebooks](projects/code-notebooks.md)
