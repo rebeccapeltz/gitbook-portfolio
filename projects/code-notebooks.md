@@ -4,7 +4,7 @@ description: Use code notebooks with Node.js in VS Code.
 
 # Code Notebooks
 
-<figure><img src="../../.gitbook/assets/code-notebook.png" alt=""><figcaption><p>Code Notebook for Cloudinary Image Delivery API</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/code-notebook.png" alt=""><figcaption><p>Code Notebook for Cloudinary Image Delivery API</p></figcaption></figure>
 
 ### Description
 

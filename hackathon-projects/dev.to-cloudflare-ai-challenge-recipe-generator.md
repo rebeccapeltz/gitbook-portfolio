@@ -1,6 +1,6 @@
 # Dev.to Cloudflare AI Challenge: Recipe Generator
 
-<figure><img src="../../.gitbook/assets/hummingbird-cake.png" alt=""><figcaption><p>Cloudflare Generative AI Dev.to Hackathon</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hummingbird-cake.png" alt=""><figcaption><p>Cloudflare Generative AI Dev.to Hackathon</p></figcaption></figure>
 
 Click on links to run application and view code:
 

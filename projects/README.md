@@ -1,2 +1,19 @@
-# Projects
+---
+description: >-
+  While working for Cloudinary, I studied Curriculum Design and earned a
+  master's degree from Quinnipiac University. I created many small applications
+  that might serve as learning aids..
+---
 
+# Learning Apps
+
+| Title                                                                                                                                                              | Technology                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [Introduction to Web Development](https://rpeltz.gitbook.io/portfolio/projects/introduction-to-web-development)                                                    | Use cloud-based IDE, GitHub, and Bootstrap to teach an introductory course on web development.                         |
+| [Blockchain Learning](https://rpeltz.gitbook.io/portfolio/projects/blockchain-learning)                                                                            | Learn basics about the blockchain and work through an exercise with a blockchain wallet.                               |
+| [Guide to Design, Create, and Publish a Chrome Browser Extension](https://rpeltz.gitbook.io/portfolio/projects/design-create-and-publish-a-chrome-extension-guide) | Create a Chrome browser extension that helps users detect phishing.                                                    |
+| [Code Notebooks](https://rpeltz.gitbook.io/portfolio/projects/code-notebooks)                                                                                      | Create a code notebook in Visual Studio Code to experiment and learn in a sharable notebook.                           |
+| [Periodic Table of Cloudinary Transformations](https://rpeltz.gitbook.io/portfolio/projects/periodic-table-of-cloudinary-transformations)                          | Create a React app that organizes API options into categories accessible from a structure resembling a periodic table. |
+| [Transformation Concentration](https://rpeltz.gitbook.io/portfolio/projects/transformation-concentration)                                                          | A gamified learning tool to enable quick recognition of Cloudinary transformations.                                    |
+| [Code Sandbox Playground](https://rpeltz.gitbook.io/portfolio/projects/code-sandbox-playground-for-cloudinary-transformations-prototype)                           | An application that contains code sandbox code to kickstart learning about the Cloudinary React SDK.                   |
+| [Using AI at Home and In the Workplace](https://rpeltz.gitbook.io/portfolio/learning-modules/using-ai-at-home-and-in-the-workplace)                                | An eBook to support a short course in working with AI services and applications.                                       |

@@ -4,7 +4,7 @@ description: Look at a way to organization a lot of features using a periodic ta
 
 # Periodic Table of Cloudinary Transformations
 
-<figure><img src="../../.gitbook/assets/period-table-cld.png" alt=""><figcaption><p>Periodic Table of Cloudinary Transformations</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/period-table-cld.png" alt=""><figcaption><p>Periodic Table of Cloudinary Transformations</p></figcaption></figure>
 
 ### Description
 

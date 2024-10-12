@@ -4,7 +4,7 @@ description: Course in learning web development.
 
 # Introduction to Web Development
 
-<figure><img src="../../.gitbook/assets/apple-web-dev.png" alt=""><figcaption><p>GitBook for Introduction to Web Development Course</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/apple-web-dev.png" alt=""><figcaption><p>GitBook for Introduction to Web Development Course</p></figcaption></figure>
 
 
 

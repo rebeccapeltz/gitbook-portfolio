@@ -4,7 +4,7 @@ description: Create a chrome extension.
 
 # Design, Create, and Publish a Chrome Extension
 
-<figure><img src="../../.gitbook/assets/link-reveal-chrome-store.png" alt=""><figcaption><p>Link Reveal Extenstion Published in Chrome Web Store</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/link-reveal-chrome-store.png" alt=""><figcaption><p>Link Reveal Extenstion Published in Chrome Web Store</p></figcaption></figure>
 
 Click the link below to see the online guide:
 
