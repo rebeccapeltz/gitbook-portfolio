@@ -8,7 +8,9 @@ description: Play the game of Concentration to learn about Cloudinary transforma
 
 ### Description
 
-Cloudinary is a SAAS product that makes it easy to transform images. To create a transformation, the user uploads a file to Cloudinary. Then, the image may be transformed by injecting instructions into the path of the URL to the uploaded image. &#x20;
+Remember the Classic television show [Concentration](https://www.youtube.com/watch?v=mJnOuAVNstg)? The game requires players to remember an image they recently saw and match it to another picture on the board. The learning game in this application requires the player to learn a set of  Cloudinary effects and then use the knowledge to match two squares on the board.
+
+Cloudinary is a SAAS product that makes it easy to transform images. To create a transformation, the user uploads a file to Cloudinary. Then, the image may be transformed by injecting instructions into the path of the uploaded image's URL. &#x20;
 
 Transformations may deal with sizing and optimization or apply special effects.  In this game, the player learns to recognize and name special effects.
 
@@ -20,10 +22,10 @@ The training page is shown below.  To win the game, players must be able to matc
 
 <figure><img src="../.gitbook/assets/cloudinary-transform-game-training.png" alt=""><figcaption><p>Training Page</p></figcaption></figure>
 
-Tools and Technology
+### Tools and Technology
 
 This game was built using React.&#x20;
 
-[code](https://github.com/rebeccapeltz/transformation-concentration)
+[Code](https://github.com/rebeccapeltz/transformation-concentration)
 
-[application](https://github.com/rebeccapeltz/transformation-concentration)
+[Application](https://transformation-concentration.netlify.app/)
