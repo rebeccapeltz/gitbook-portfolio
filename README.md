@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/beckypeltz.jpeg" alt="" width="187"><figcaption></figcaption></figure>
 
-I love learning, and I aim for mastery. I like sharing what I know with others.  I mentored Junior developers and learned a lot from their questions and perspectives. As a software developer, I've spent many years teaching computers what to do, and along the way, I found opportunities to teach people. &#x20;
+I love learning and sharing what I know with others. I mentored developers and learned a lot from their questions and perspectives. &#x20;
 
 I teach myself by reading, writing, and drawing pictures.&#x20;
 
