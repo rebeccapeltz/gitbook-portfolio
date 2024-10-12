@@ -4,7 +4,7 @@ description: Use an application that embeds Codesanboxes to learn the Cloudinary
 
 # Code Sandbox Playground for  Cloudinary Transformations Prototype
 
-<figure><img src="../.gitbook/assets/cld-react-playground.png" alt=""><figcaption><p>Prototype for an application to experiment with Cloudinary React SDK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cld-react-playground.png" alt=""><figcaption><p>Prototype for an application to experiment with Cloudinary React SDK</p></figcaption></figure>
 
 ### Description
 

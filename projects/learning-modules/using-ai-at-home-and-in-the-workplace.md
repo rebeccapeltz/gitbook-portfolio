@@ -4,7 +4,7 @@ description: Short course in using AI and learning prompt engineering.
 
 # Using AI at Home and in the Workplace
 
-<figure><img src="../.gitbook/assets/ai-course.png" alt=""><figcaption><p>Artificial Intelligence</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-course.png" alt=""><figcaption><p>Artificial Intelligence</p></figcaption></figure>
 
 Click the link below to see the GitBook:
 

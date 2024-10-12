@@ -1,8 +1,8 @@
 # Dev.to Cloudflare AI Challenge: Recipe Generator
 
-<figure><img src="../.gitbook/assets/hummingbird-cake.png" alt=""><figcaption><p>Cloudflare Generative AI Dev.to Hackathon</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hummingbird-cake.png" alt=""><figcaption><p>Cloudflare Generative AI Dev.to Hackathon</p></figcaption></figure>
 
-
+Click on links to run application and view code:
 
 {% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_xVVqz" %}
 [Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_xVVqz)
@@ -14,7 +14,9 @@
 
 ### Description
 
-I used Cloudflare models to generate streaming text for the recipe and an image generator to visualize what the recipe might produce.
+[Dev.to](https://dev.to/) is a website where developers use blogs to share ideas and code.  Dev.to sponsors hackathons with its partners.
+
+I created a web application that shares text and pictures for recipes. I used Cloudflare models to generate streaming text for the recipe and an image generator to visualize what the recipe might produce.
 
 ### Tools/Technology
 
