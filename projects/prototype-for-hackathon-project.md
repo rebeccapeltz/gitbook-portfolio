@@ -4,13 +4,9 @@
 
 Open the link below on your cell phone to spin the photo cube with your fingers.  The code used to create the photo cue is also shown below.
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_BgYNU" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_BgYNU)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled (1).md" %}
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_WB7wr" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_WB7wr)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled (3).md" %}
 
 ### Description
 

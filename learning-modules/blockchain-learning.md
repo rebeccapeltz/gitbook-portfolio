@@ -8,9 +8,7 @@ description: Learning to work with a crypto currency wallet.
 
 Click the link below to see the docusaurus book:
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_NgNys" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_NgNys)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled.md" %}
 
 ### Description
 

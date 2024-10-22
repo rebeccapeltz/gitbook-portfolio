@@ -4,13 +4,9 @@
 
 Click on links to run application and view code:
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_xVVqz" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_xVVqz)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled (5).md" %}
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_5GdvQ" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_5GdvQ)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled (4).md" %}
 
 ### Description
 

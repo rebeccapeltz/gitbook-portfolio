@@ -8,9 +8,7 @@ description: Short course in using AI and learning prompt engineering.
 
 Click the link below to see the GitBook:
 
-{% synced-block url="https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb_qVY6j" %}
-[Untitled](https://app.gitbook.com/o/zlYLwSsGRoLhpALpi1vE/blocks/syb\_qVY6j)
-{% endsynced-block %}
+{% include "../.gitbook/includes/untitled (2).md" %}
 
 ### Description
 
