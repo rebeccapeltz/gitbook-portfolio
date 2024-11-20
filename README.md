@@ -2,9 +2,9 @@
 
 <figure><img src=".gitbook/assets/beckypeltz.jpeg" alt="" width="187"><figcaption></figcaption></figure>
 
-I love learning and sharing what I know with others. I mentored developers and learned a lot from their questions and perspectives. &#x20;
+I love learning and sharing what I know with others. I mentored developers and taught adults who wanted to learn web development and programming. I and learned a lot from their questions and perspectives. &#x20;
 
-I teach myself by reading, writing, and drawing pictures.&#x20;
+I learn by attending classes and webinars. I teach myself by reading, writing, and drawing pictures.&#x20;
 
 ```mermaid
 block-beta
