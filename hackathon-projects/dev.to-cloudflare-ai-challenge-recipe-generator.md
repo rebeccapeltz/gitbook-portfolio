@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/hummingbird-cake.png" alt=""><figcaption><p>Cloudflare Generative AI Dev.to Hackathon</p></figcaption></figure>
 
-Click on links to run application and view code:
+Click on links to run the application and view the code:
 
 {% include "../.gitbook/includes/untitled (5).md" %}
 

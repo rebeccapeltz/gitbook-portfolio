@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/photo-cube-3d.png" alt="" width="174"><figcaption><p> 3D Photocube on cell phone</p></figcaption></figure>
 
+### 3D Photocube
+
 Open the link below on your cell phone to spin the photo cube with your fingers.  The code used to create the photo cue is also shown below.
 
 {% include "../.gitbook/includes/untitled (1).md" %}
@@ -10,7 +12,7 @@ Open the link below on your cell phone to spin the photo cube with your fingers.
 
 ### Description
 
-This prototype was created as part of a team project for a hackathon sponsored by my employer for employees only.
+This prototype was created as part of a team project for a hackathon sponsored by my employer, Cloudinary, for employees only.
 
 ### Tools/Technology
 
