@@ -20,5 +20,5 @@ This application was created using the React framework.
 
 [Code](https://github.com/rebeccapeltz/cld-periodic-table)
 
-[Application](https://www.beckypeltz.me/cld-periodic-table/)
+[Application](https://beckypeltz.online/cld-periodic-table/)
 

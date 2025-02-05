@@ -16,4 +16,4 @@ This front-end application was created with the React framework using the Cloudi
 
 [Code](https://github.com/rebeccapeltz/sandbox-react-cld)
 
-[Application](https://www.beckypeltz.me/sandbox-react-cld/)
+[Application](https://beckypeltz.online/sandbox-react-cld/)
