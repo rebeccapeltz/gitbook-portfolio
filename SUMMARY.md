@@ -5,6 +5,7 @@
 * [Work History](work-history.md)
 * [Projects](<projects/README (1).md>)
   * [Hackathon Projects](hackathon-projects/README.md)
+    * [Traveler's Translator: Translation and Speech AI](projects/hackathon-projects/travelers-translator-translation-and-speech-ai.md)
     * [Eleanor: An AI Application](projects/hackathon-projects/eleanor-an-ai-application.md)
     * [Prototype for Hackathon 3D Project](projects/prototype-for-hackathon-project.md)
     * [Dev.to Cloudflare AI Challenge: Recipe Generator](hackathon-projects/dev.to-cloudflare-ai-challenge-recipe-generator.md)
