@@ -2,9 +2,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/home.png" alt=""><figcaption><p>Home: Enter text and choose language to translate to</p></figcaption></figure> <figure><img src="../../.gitbook/assets/result.png" alt=""><figcaption><p>Result: View orignal and translated text. Click on speech button to hear the text spoken</p></figcaption></figure></div>
 
-Note: this was developed using a free tier in AzureApplication
-
-[Application](https://flasktranslatorapp-bvepdbcvgmh7ffek.westus2-01.azurewebsites.net/)
+Note: this was developed using a free tier in Azure Application that is no longer accessible.
 
 [Code](https://github.com/rebeccapeltz/FlaskTranslation)
 
