@@ -4,10 +4,6 @@
 
 
 
-[Eleanor Application](https://eleanor2024.netlify.app/)
-
-note: the free plan that I'm on will time out on questions and statements that take longer to answer
-
 [Code](https://github.com/rebeccapeltz/eleanor)
 
 ### Description
