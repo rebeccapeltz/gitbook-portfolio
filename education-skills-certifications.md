@@ -4,13 +4,13 @@
 
 ### University of Washington
 
-Psychology 1979, Phi Beta Kappa, Magna Cum Laude
+Psychology, Phi Beta Kappa, Magna Cum Laude
 
-Master Business Administration 1985, Finance and Quantitative Methods
+Master Business Administration, Finance and Quantitative Methods
 
 ### Quinnipiac University
 
-Masters Science, 2023, Curriculum Design
+Masters Science, Curriculum Design
 
 ### Skills
 
@@ -25,8 +25,8 @@ Masters Science, 2023, Curriculum Design
 
 ### Certifications
 
-* AWS Certified Cloud Practioner, 2022
-* ICS2 CC Certified in Cybersecurity, 2024
+* AWS Certified Cloud Practioner, 2028
+* ICS2 CC Certified in Cybersecurity, 2025
 
 
 
